@@ -5,7 +5,17 @@
 <h1 align="center">    
     <img src="/assets/wallpaper2.png">
 </h1>
-## 💻 Technologies
+
+
+
+
+## 🚀 Who am I?
+
+My name is Wallace Ribeiro, and I am currently studying to become a front-end developer.
+
+
+
+## 💻 technologies
 
 This project was developed with the following technologies:
 
@@ -13,9 +23,3 @@ This project was developed with the following technologies:
 - JavaScript
 - Git and Github
 - Figma
-
-
-## 🚀 Who am I?
-
-My name is Wallace Ribeiro, and I am currently studying to become a front-end developer.
-
