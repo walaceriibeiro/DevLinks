@@ -15,7 +15,7 @@ My name is Wallace Ribeiro, and I am currently studying to become a front-end de
 
 
 
-## 💻 technologies
+## 💻 Technologies
 
 This project was developed with the following technologies:
 
