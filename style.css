@@ -91,6 +91,7 @@ body * {
 
 #switch button:hover {
   outline: 6px solid var(--social-hover);
+  border-radius: 50%;
 }
 
 
